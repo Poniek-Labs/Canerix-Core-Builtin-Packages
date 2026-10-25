@@ -4,5 +4,5 @@
   "description": "Lightweight terminal text editor",
   "entry_point": "kobi.py",
   "author": "Poniek Labs",
-  "sha256_checksum": "8ed6718cc00e07ab992fde907beda2c9531fbdbd54431e8856785c2770dd7df7"
+  "sha256_checksum": "04a4066a420912bb3216c86d6711ffe9190a982d6d86c4fb9f7523459f649f08"
 }
