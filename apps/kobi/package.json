@@ -1,0 +1,8 @@
+{
+  "name": "kobi",
+  "version": "1.0.0",
+  "description": "Lightweight terminal text editor",
+  "entry_point": "kobi.py",
+  "author": "Poniek Labs",
+  "sha256_checksum": "8ed6718cc00e07ab992fde907beda2c9531fbdbd54431e8856785c2770dd7df7"
+}

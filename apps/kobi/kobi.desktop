@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Kobi Editor
+Comment=Lightweight terminal text editor
+Exec=kobi
+Icon=kobi-logo
+Terminal=true
+Categories=Utility;TextEditor;

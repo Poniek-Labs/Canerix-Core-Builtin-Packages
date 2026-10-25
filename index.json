@@ -1,0 +1,12 @@
+{
+  "repository": "Canerix-Core-Builtin-Packages",
+  "maintainer": "Poniek Labs <labs.poniek.ca>",
+  "packages": [
+    {
+      "name": "kobi",
+      "version": "1.0.0",
+      "path": "apps/kobi/",
+      "description": "Lightweight terminal text editor"
+    }
+  ]
+}
